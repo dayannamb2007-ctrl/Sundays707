@@ -1,4 +1,4 @@
- <div align="center">
+  <div align="center">
 
   # 🎀 Hi, I'm Day! 🎀
 
@@ -18,14 +18,14 @@
 
 > Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch. ✨
 
-- 🦄 **Currently working on:** Building and designing new software projects.
-- 🌱 **Currently learning:** Advanced web development & full-stack magic.
-- 💬 **Ask me about:** Java, Web design, and learning cool new tools!
-- 🎨 **Interests:** Design, coding, tech & creative building.
+-  **Currently working on:** Building and designing new software projects.
+-  **Currently learning:** Advanced web development & full-stack magic.
+-  **Ask me about:** Java, Web design, and learning cool new tools!
+-  **Interests:** Design, coding, tech & creative building.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Domingos707&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
