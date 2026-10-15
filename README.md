@@ -1,27 +1,35 @@
+ <div align="center">
 
-# Hi, I'm Dayanna 👋
+  # 🎀 Hi, I'm Day! 🎀
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F72585&width=450&lines=Welcome+to+my+creative+space!;A+place+to+build+and+create.;Turning+ideas+into+code." alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+creative+space!+✨;Creating%2C+building+%26+learning+%F0%9F%8C%B8;Turning+ideas+into+cute+code+💖" alt="Typing SVG" />
 
----
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1uZWU3bGN4ODJ1OXA1eDZjdnF2dHFjcW1zbWVpMmthbXdtbTZmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lq0h93752f6J9tijrh/giphy.gif" width="180px" alt="Cute Gif">
+  </p>
 
-###  About Me
+  <i>"Creating beautiful things, one line of code at a time."</i> 🌸
 
-> Welcome to my personal space to create, experiment, and build cool projects from scratch! I’m constantly learning, breaking things, and turning ideas into code.
-
--  **Currently working on:** Building and developing new software projects.
--  **Currently learning:** Advanced programming & web development.
--  **Ask me about:** Java, Web design, and learning new tools.
+</div>
 
 ---
 
-###  GitHub Stats
+### 🌸 About Me
+
+> Welcome to my personal playground! This is my cozy space to experiment, learn, and build awesome projects from scratch. ✨
+
+- 🦄 **Currently working on:** Building and designing new software projects.
+- 🌱 **Currently learning:** Advanced web development & full-stack magic.
+- 💬 **Ask me about:** Java, Web design, and learning cool new tools!
+- 🎨 **Interests:** Design, coding, tech & creative building.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Domingos707&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos707&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Domingos707&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingos707&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -29,10 +37,10 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Web:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Design:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,14 +49,25 @@
 
 ---
 
-### 📫 Connect with Me
+### ✉️ Contactarme
 
-Have a project in mind, a question, or just want to say hi? Feel free to reach out!
+Have a question, a project in mind, or just want to chat? Feel free to reach out to me! 💌
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayannamb2007@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:dayanna-11m@hotmail.com)
+<p align="left">
+  <a href="mailto:dayannamb2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:dayanna-11m@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-DA70D6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  </a>
+</p>
 
 ---
+
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+  <img src="https://profile-counter.glitch.me/Domingos707/count.svg" alt="Visitors Count" />
+</p>
+
+<p align="center">
+  ✨ <i>Thanks for stopping by Day's space!</i> ✨
 </p>
